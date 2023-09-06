@@ -1,0 +1,17 @@
+                                                            ::Array List::
+
+Problem Statement:-
+
+*   Consider we don't know the actual size of the array.
+*   So we used to tell the Java to manage the space of the array and I will enter the values.
+*   This action is been done by ArrayLists.
+*   ArrayLists has been found in java.util.package.
+*   This is slower than the standard array.
+*   The angular bracket basically shows us about the generics.
+SYNTAX:
+ArrayList<"DATATYPE"> NAME = new ArrayList<>();
+or
+ArrayList<"DATATYPE"> NAME = new ArrayList<"DATATYPE">();
+
+EXAMPLE:
+ArrayList<Integer> sat = new ArrayList<Integer>();
